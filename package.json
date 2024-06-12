@@ -1,0 +1,6 @@
+{
+  "name": "ember-qunit-builds",
+  "version": "1.0.0",
+  "description": "Ember qunit builds",
+  "main": "./ember-qunit.js"
+}
